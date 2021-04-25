@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<xml>
+<anggota>
+	<nama>Toni</nama>
+	<alamat>Bandung</alamat>
+	<umur>35</umur>
+</anggota>
+<anggota>
+	<nama>Adi</nama>
+	<alamat>Bandung</alamat>
+	<umur>18</umur>
+</anggota>
+<anggota>
+	<nama>Ucok</nama>
+	<alamat>Medan</alamat>
+	<umur>23</umur>
+</anggota>
+</xml>
